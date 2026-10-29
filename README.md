@@ -7,7 +7,7 @@
 | No | Modul / Tugas | Topik & Deskripsi Utama | Status | Link Folder |
 |:--:|---------------|-------------------------|:------:|:-----------:|
 | 01 | **Modul 1** | Pengenalan Mobile Programming dan Setup Lingkungan | Selesai | [📂 Lihat Modul 1](./praktikum_1) |
-| 02 | **Modul 2** | Widget Row dan Column | Selesai | [📂 Lihat Modul 2](./praktikum_1) |
+| 02 | **Modul 2** | Widget Row dan Column | Selesai | [📂 Lihat Modul 2](./praktikum_2) |
 | 03 | **Modul 3** | Pengaturan Layout Row dan Column di Flutter | Selesai | [📂 Lihat Modul 3](./praktikum_2) |
 | 04 | **Modul 4** | Widget Flexible dan Expanded | Selesai | [📂 Lihat Modul 4](./praktikum_2) |
 | 05 | **Modul 5** | Widget SizedBox, Spacer, dan Card | Selesai | [📂 Lihat Modul 5](./praktikum_3) |
