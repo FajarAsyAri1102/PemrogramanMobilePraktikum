@@ -1,4 +1,4 @@
-# Halo! 👋 Saya Muhammad Farel Nabil
+# Halo! 👋 Saya Ach. Fajar Asy'Ari
 
 📋 Informasi Pribadi : Nama : Ach. Fajar Asy'Ari | NIM : 240605110229 | Kelas : Mobile Programming Practicum E |
 
