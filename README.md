@@ -19,4 +19,4 @@
 | 11 | **Modul 11** | Manajemen State dengan GetX | Selesai | [📂 Lihat Modul 11](https://github.com/FajarAsyAri1102/MOBILEPROGRAMMINGPRAKTIKUM/tree/main/praktikum_7) |
 | 12 | **UTS** | Ujian Tengah Semester (Aplikasi CineKu) | Selesai | [📂 Lihat UTS](https://github.com/FajarAsyAri1102/MOBILEPROGRAMMINGPRAKTIKUM/tree/main/uts) |
 | 13 | **Modul 12** | Akses Lokasi dengan GPS di Flutter | Selesai | [📂 Lihat Modul 12](https://github.com/FajarAsyAri1102/MOBILEPROGRAMMINGPRAKTIKUM/tree/main/praktikum_9) |
-| 14 | **Modul 13** | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | Belum | [📂 Lihat Modul 13](./praktikum_10) |
+| 14 | **Modul 13** | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | Belum | [📂 Lihat Modul 13](https://github.com/FajarAsyAri1102/MOBILEPROGRAMMINGPRAKTIKUM/tree/main/praktikum_10) |
